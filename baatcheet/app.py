@@ -16,7 +16,7 @@ groq_api_key = os.environ.get("GROQ_API_KEY")
 # Streamlit page setup
 # ------------------------------
 st.set_page_config(page_title="Open-Source Chat Assistant", layout="wide")
-st.title("🤖 YATIN SE BAAT-CHEET")
+st.title("🤖 YATIN_AI")
 
 # ------------------------------
 # Models
